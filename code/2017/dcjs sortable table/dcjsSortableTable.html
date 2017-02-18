@@ -15,24 +15,26 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.min.css" rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <div class="row">
-    <div class="table-responsive col-md-12">
-      <h4>Filtered Records</h4>
-      <table class='table table-hover table-striped table-bordered' id='dc-table-graph'>
-        <thead>
-          <tr class='table-header'>
-            <!-- Programmatically insert table headers here -->
-          </tr>
-        </thead>
-      </table>
-      <div class="col-sm-12" id="paging">
-        Showing <span id="begin"></span>-<span id="end"></span> of <span id="size"></span>
-        <input id="Prev" class="btn btn-secondary" role="button" type="button" value="Prev" onclick="javascript:prevPage()" />
-        <input id="Next" class="btn btn-secondary" role="button" type="button" value="Next" onclick="javascript:nextPage()"/>
+  <div class="container">
+    <div class="row">
+      <div class="table-responsive col-md-12">
+        <h4>Filtered Records</h4>
+        <table class='table table-hover table-striped table-bordered' id='dc-table-graph'>
+          <thead>
+            <tr class='table-header'>
+              <!-- Programmatically insert table headers here -->
+            </tr>
+          </thead>
+        </table>
+        <div class="col-sm-12" id="paging">
+          Showing <span id="begin"></span>-<span id="end"></span> of <span id="size"></span>
+          <input id="Prev" class="btn btn-secondary" role="button" type="button" value="Prev" onclick="javascript:prevPage()" />
+          <input id="Next" class="btn btn-secondary" role="button" type="button" value="Next" onclick="javascript:nextPage()"/>
+        </div>
       </div>
     </div>
+    <div id="vertical-whitespace" style="padding: 10px"></div>
   </div>
-  <div id="vertical-whitespace" style="padding: 10px"></div>
 
   <style type="text/css">
   #paging {
