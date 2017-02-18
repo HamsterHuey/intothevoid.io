@@ -1,0 +1,2116 @@
+[
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.963,
+      "true_conf":0.963,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9012,
+      "true_conf":0.9012,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5714,
+      "true_conf":0.5714,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8949,
+      "true_conf":0.8949,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.349,
+      "true_conf":0.1636,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8079,
+      "true_conf":0.8079,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6657,
+      "true_conf":0.6657,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.989,
+      "true_conf":0.989,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.5175,
+      "true_conf":0.0845,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9127,
+      "true_conf":0.9127,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9332,
+      "true_conf":0.9332,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.9938,
+      "true_conf":0.0024,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6666,
+      "true_conf":0.6666,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.4311,
+      "true_conf":0.4311,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5601,
+      "true_conf":0.5601,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 5",
+      "max_conf":0.3465,
+      "true_conf":0.2492,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.675,
+      "true_conf":0.675,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7739,
+      "true_conf":0.7739,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5601,
+      "true_conf":0.5601,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8173,
+      "true_conf":0.8173,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8931,
+      "true_conf":0.8931,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7002,
+      "true_conf":0.7002,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 2",
+      "max_conf":0.3247,
+      "true_conf":0.2872,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.7541,
+      "true_conf":0.7541,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 1",
+      "max_conf":0.8812,
+      "true_conf":0.029,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 1",
+      "max_conf":0.9979,
+      "true_conf":0,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7341,
+      "true_conf":0.7341,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.952,
+      "true_conf":0.952,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.6695,
+      "true_conf":0.6695,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.9524,
+      "true_conf":0.9524,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 5",
+      "max_conf":0.5039,
+      "true_conf":0.1611,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9996,
+      "true_conf":0.9996,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6183,
+      "true_conf":0.6183,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5335,
+      "true_conf":0.5335,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8445,
+      "true_conf":0.8445,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6473,
+      "true_conf":0.6473,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9868,
+      "true_conf":0.9868,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9325,
+      "true_conf":0.9325,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5132,
+      "true_conf":0.5132,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9547,
+      "true_conf":0.9547,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4292,
+      "true_conf":0.3512,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8988,
+      "true_conf":0.8988,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9497,
+      "true_conf":0.9497,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5645,
+      "true_conf":0.5645,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.765,
+      "true_conf":0.765,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8511,
+      "true_conf":0.8511,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6566,
+      "true_conf":0.6566,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9899,
+      "true_conf":0.9899,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.7401,
+      "true_conf":0.7401,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.854,
+      "true_conf":0.854,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.5988,
+      "true_conf":0.0745,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5817,
+      "true_conf":0.2331,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 2",
+      "max_conf":0.6731,
+      "true_conf":0.0433,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7098,
+      "true_conf":0.7098,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9974,
+      "true_conf":0.9974,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.3892,
+      "true_conf":0.3892,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.2606,
+      "true_conf":0.2606,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.5817,
+      "true_conf":0.0822,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.9217,
+      "true_conf":0.9217,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5534,
+      "true_conf":0.5534,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9053,
+      "true_conf":0.9053,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7898,
+      "true_conf":0.7898,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9449,
+      "true_conf":0.9449,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.8532,
+      "true_conf":0.8532,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.4481,
+      "true_conf":0.1545,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4141,
+      "true_conf":0.4135,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.4574,
+      "true_conf":0.323,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.8637,
+      "true_conf":0.8637,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8567,
+      "true_conf":0.8567,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9974,
+      "true_conf":0.9974,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.798,
+      "true_conf":0.1508,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.4278,
+      "true_conf":0.4278,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6631,
+      "true_conf":0.6631,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6213,
+      "true_conf":0.6213,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5559,
+      "true_conf":0.408,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.7046,
+      "true_conf":0.7046,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.4391,
+      "true_conf":0.1143,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5204,
+      "true_conf":0.5204,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.5823,
+      "true_conf":0.5823,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7897,
+      "true_conf":0.7897,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.5634,
+      "true_conf":0.0826,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5276,
+      "true_conf":0.2916,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9058,
+      "true_conf":0.9058,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7521,
+      "true_conf":0.7521,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8944,
+      "true_conf":0.8944,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8193,
+      "true_conf":0.8193,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9536,
+      "true_conf":0.9536,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4346,
+      "true_conf":0.4009,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7663,
+      "true_conf":0.7663,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5034,
+      "true_conf":0.3178,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.3714,
+      "true_conf":0.2302,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4718,
+      "true_conf":0.4718,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.4464,
+      "true_conf":0.4464,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.9986,
+      "true_conf":0.9986,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4357,
+      "true_conf":0.4357,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.706,
+      "true_conf":0.706,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 1",
+      "max_conf":0.3557,
+      "true_conf":0.2942,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.6854,
+      "true_conf":0.6854,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5631,
+      "true_conf":0.5631,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.7314,
+      "true_conf":0.0621,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.824,
+      "true_conf":0.824,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.999,
+      "true_conf":0.999,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7885,
+      "true_conf":0.7885,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.3532,
+      "true_conf":0.2859,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9973,
+      "true_conf":0.9973,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7748,
+      "true_conf":0.7748,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9978,
+      "true_conf":0.9978,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5796,
+      "true_conf":0.2428,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8341,
+      "true_conf":0.8341,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9931,
+      "true_conf":0.9931,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.9971,
+      "true_conf":0.9971,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8849,
+      "true_conf":0.8849,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9892,
+      "true_conf":0.9892,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9261,
+      "true_conf":0.9261,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.729,
+      "true_conf":0.729,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6696,
+      "true_conf":0.6696,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5052,
+      "true_conf":0.2644,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9936,
+      "true_conf":0.9936,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8731,
+      "true_conf":0.8731,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.5719,
+      "true_conf":0.1582,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.398,
+      "true_conf":0.1421,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8039,
+      "true_conf":0.8039,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5833,
+      "true_conf":0.5833,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4824,
+      "true_conf":0.4824,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5635,
+      "true_conf":0.5635,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9129,
+      "true_conf":0.9129,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9806,
+      "true_conf":0.9806,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.5221,
+      "true_conf":0.0689,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9367,
+      "true_conf":0.9367,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 5",
+      "max_conf":0.6051,
+      "true_conf":0.0764,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.7941,
+      "true_conf":0.7941,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8585,
+      "true_conf":0.8585,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8071,
+      "true_conf":0.8071,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.6943,
+      "true_conf":0.0528,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9127,
+      "true_conf":0.9127,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.545,
+      "true_conf":0.545,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.965,
+      "true_conf":0.965,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.6219,
+      "true_conf":0.2456,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5631,
+      "true_conf":0.2441,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4097,
+      "true_conf":0.303,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9588,
+      "true_conf":0.9588,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5492,
+      "true_conf":0.5492,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9045,
+      "true_conf":0.9045,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5598,
+      "true_conf":0.2061,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8998,
+      "true_conf":0.8998,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9917,
+      "true_conf":0.9917,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9994,
+      "true_conf":0.9994,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 3",
+      "true_label":"Class 3",
+      "max_conf":0.4289,
+      "true_conf":0.4289,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.3224,
+      "true_conf":0.3224,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.6937,
+      "true_conf":0.6937,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.6766,
+      "true_conf":0.6766,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.731,
+      "true_conf":0.731,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9926,
+      "true_conf":0.9926,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9973,
+      "true_conf":0.9973,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6907,
+      "true_conf":0.6907,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9895,
+      "true_conf":0.9895,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.4796,
+      "true_conf":0.1125,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6619,
+      "true_conf":0.6619,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9057,
+      "true_conf":0.9057,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 5",
+      "max_conf":0.3976,
+      "true_conf":0.2834,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5829,
+      "true_conf":0.5829,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5585,
+      "true_conf":0.2736,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.545,
+      "true_conf":0.2385,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8283,
+      "true_conf":0.8283,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8551,
+      "true_conf":0.8551,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7217,
+      "true_conf":0.7217,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.5672,
+      "true_conf":0.0747,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6942,
+      "true_conf":0.6942,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5402,
+      "true_conf":0.5402,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9404,
+      "true_conf":0.9404,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6604,
+      "true_conf":0.6604,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.74,
+      "true_conf":0.74,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5527,
+      "true_conf":0.2634,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6818,
+      "true_conf":0.6818,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.476,
+      "true_conf":0.476,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4181,
+      "true_conf":0.4181,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.4796,
+      "true_conf":0.4796,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.3424,
+      "true_conf":0.1771,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5402,
+      "true_conf":0.5402,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7625,
+      "true_conf":0.7625,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.8303,
+      "true_conf":0.8303,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.4225,
+      "true_conf":0.1852,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8277,
+      "true_conf":0.8277,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.742,
+      "true_conf":0.742,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9636,
+      "true_conf":0.9636,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8942,
+      "true_conf":0.8942,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7269,
+      "true_conf":0.7269,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4202,
+      "true_conf":0.3537,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5681,
+      "true_conf":0.2834,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8863,
+      "true_conf":0.8863,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5058,
+      "true_conf":0.3041,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8939,
+      "true_conf":0.8939,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6121,
+      "true_conf":0.6121,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 1",
+      "max_conf":0.4831,
+      "true_conf":0.4628,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4732,
+      "true_conf":0.0483,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9136,
+      "true_conf":0.9136,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.998,
+      "true_conf":0.998,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9984,
+      "true_conf":0.9984,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9778,
+      "true_conf":0.9778,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.5359,
+      "true_conf":0.1716,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4573,
+      "true_conf":0.368,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8186,
+      "true_conf":0.8186,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8186,
+      "true_conf":0.8186,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9552,
+      "true_conf":0.9552,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8054,
+      "true_conf":0.8054,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.6606,
+      "true_conf":0.6606,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.7306,
+      "true_conf":0.7306,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.6104,
+      "true_conf":0.2093,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.634,
+      "true_conf":0.634,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4867,
+      "true_conf":0.4867,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7409,
+      "true_conf":0.7409,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.4645,
+      "true_conf":0.4645,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 1",
+      "max_conf":0.4959,
+      "true_conf":0.2839,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7265,
+      "true_conf":0.7265,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8175,
+      "true_conf":0.8175,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7003,
+      "true_conf":0.7003,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.8712,
+      "true_conf":0.8712,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7865,
+      "true_conf":0.7865,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4977,
+      "true_conf":0.3122,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.7048,
+      "true_conf":0.7048,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5341,
+      "true_conf":0.2363,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5914,
+      "true_conf":0.2076,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.872,
+      "true_conf":0.872,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9666,
+      "true_conf":0.9666,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9999,
+      "true_conf":0.9999,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6564,
+      "true_conf":0.6564,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.6994,
+      "true_conf":0.0713,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9915,
+      "true_conf":0.9915,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5849,
+      "true_conf":0.5849,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.5209,
+      "true_conf":0.288,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8139,
+      "true_conf":0.8139,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8927,
+      "true_conf":0.8927,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9335,
+      "true_conf":0.9335,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 1",
+      "max_conf":0.5794,
+      "true_conf":0.1378,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.3769,
+      "true_conf":0.2417,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.3754,
+      "true_conf":0.3754,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 4",
+      "max_conf":0.3981,
+      "true_conf":0.2197,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5592,
+      "true_conf":0.5592,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9191,
+      "true_conf":0.9191,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7609,
+      "true_conf":0.7609,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.4772,
+      "true_conf":0.4772,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 5",
+      "max_conf":0.3136,
+      "true_conf":0.117,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.5448,
+      "true_conf":0.1157,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9422,
+      "true_conf":0.9422,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9976,
+      "true_conf":0.9976,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 3",
+      "true_label":"Class 3",
+      "max_conf":0.4398,
+      "true_conf":0.4398,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5084,
+      "true_conf":0.5084,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9903,
+      "true_conf":0.9903,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 4",
+      "max_conf":0.3657,
+      "true_conf":0.2566,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4043,
+      "true_conf":0.4043,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8365,
+      "true_conf":0.8365,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8418,
+      "true_conf":0.8418,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5011,
+      "true_conf":0.5011,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6825,
+      "true_conf":0.6825,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8013,
+      "true_conf":0.8013,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9995,
+      "true_conf":0.9995,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9459,
+      "true_conf":0.9459,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.5431,
+      "true_conf":0.2588,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.5056,
+      "true_conf":0.5056,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8906,
+      "true_conf":0.8906,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.9285,
+      "true_conf":0.9285,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.6609,
+      "true_conf":0.2161,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4883,
+      "true_conf":0.4883,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9425,
+      "true_conf":0.9425,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5431,
+      "true_conf":0.5431,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5933,
+      "true_conf":0.5933,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5482,
+      "true_conf":0.5482,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.7419,
+      "true_conf":0.7419,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 5",
+      "true_label":"Class 5",
+      "max_conf":0.7491,
+      "true_conf":0.7491,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.6106,
+      "true_conf":0.6106,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9951,
+      "true_conf":0.9951,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6913,
+      "true_conf":0.6913,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.3829,
+      "true_conf":0.1819,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.6959,
+      "true_conf":0.6959,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.5261,
+      "true_conf":0.0849,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.415,
+      "true_conf":0.1995,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 3",
+      "max_conf":0.6588,
+      "true_conf":0.1576,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5625,
+      "true_conf":0.5625,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.6489,
+      "true_conf":0.6489,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.4929,
+      "true_conf":0.4929,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 3",
+      "max_conf":0.5112,
+      "true_conf":0.1149,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.541,
+      "true_conf":0.541,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.548,
+      "true_conf":0.2825,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.517,
+      "true_conf":0.517,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8186,
+      "true_conf":0.8186,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 5",
+      "max_conf":0.4886,
+      "true_conf":0.2124,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 3",
+      "true_label":"Class 1",
+      "max_conf":0.3377,
+      "true_conf":0.16,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.4929,
+      "true_conf":0.4929,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.4676,
+      "true_conf":0.3302,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8,
+      "true_conf":0.8,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8344,
+      "true_conf":0.8344,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.4602,
+      "true_conf":0.4602,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8214,
+      "true_conf":0.8214,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.5265,
+      "true_conf":0.5265,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.5881,
+      "true_conf":0.5881,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 2",
+      "max_conf":0.3903,
+      "true_conf":0.3678,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.4929,
+      "true_conf":0.4929,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 4",
+      "max_conf":0.4732,
+      "true_conf":0.1561,
+      "misclassified":true
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.9405,
+      "true_conf":0.9405,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 4",
+      "true_label":"Class 4",
+      "max_conf":0.9949,
+      "true_conf":0.9949,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 1",
+      "true_label":"Class 1",
+      "max_conf":0.8449,
+      "true_conf":0.8449,
+      "misclassified":false
+   },
+   {
+      "classifier_label":"Class 2",
+      "true_label":"Class 2",
+      "max_conf":0.8791,
+      "true_conf":0.8791,
+      "misclassified":false
+   }
+]
